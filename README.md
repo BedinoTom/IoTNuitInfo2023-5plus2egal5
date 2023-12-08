@@ -6,6 +6,8 @@ Dans le cadre de la nuit de l'info, nous avons réaliser un système cyber-physi
 De plus chacune de nos mesures sont envoyés sur un serveur, grâce à une API Rest, sous token JWT, afin que tout le monde puisse voir les données.
 Vous trouverez ici une schéma du système, ainsi qu'une photo de la réalisation.
 
+![Alt text](./img/image2.jpg)
+
 ## Capteurs
 
 ### Température
